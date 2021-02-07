@@ -1,1 +1,2 @@
-# Gpp_Language_Parser
+# Gpp Language Parser
+Details are in details.pdf
